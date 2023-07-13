@@ -1,2 +1,2 @@
-# projeto_logico
+# Projeto Lógico
 Projeto Logico SQL
